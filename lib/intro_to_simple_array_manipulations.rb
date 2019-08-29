@@ -12,4 +12,4 @@ end
 
 def pop_with_args(array, result)
   result = array.pop
-  
+end
